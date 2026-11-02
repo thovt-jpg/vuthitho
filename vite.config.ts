@@ -3,13 +3,6 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 import {defineConfig} from 'vite';
 
-
-//export default defineConfig({
-  //base: '/vuthitho/', // Thay bằng tên repository của bạn
-  // các cấu hình khác...
-//})
-
-
 export default defineConfig(() => {
 return {
 plugins: [react(), tailwindcss()],
