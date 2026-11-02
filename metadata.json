@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sơ Đồ Mạng Web-Mail-FTP bctech.asia",
+  "description": "Sơ đồ kiến trúc mạng chuẩn hóa cho Server Web, Mail, FTP IP LAN 192.168.1.200, Port Forwarding Public IP : 171.239.236.139 và cấu hình tên miền bctech.asia , sử dụng ftp, ftps, https://www.bctech.asia, https://mail.bctech.asia:8443. ftps://ftp.bctech.asia",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
